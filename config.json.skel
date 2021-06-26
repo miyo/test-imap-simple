@@ -1,0 +1,5 @@
+{
+ "server" : "HOSTNAME",
+ "user" : "USERNAME",
+ "password" : "PASSWORD"
+}
